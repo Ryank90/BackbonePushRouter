@@ -1,4 +1,4 @@
 backbone-pushstate-router
 =========================
 
-Handle pushstates and jquery event elements in your backbone application together.
+Handle pushstates and jQuery event elements in your backbone application together.
